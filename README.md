@@ -45,7 +45,7 @@
 
 ## 📫 Connect
 
-- 💼 [LinkedIn][[https://www.linkedin.com/in/rakshya-pandey/](https://www.linkedin.com/in/utsabidangol/))
+- 💼 [LinkedIn][[https://www.linkedin.com/in/utsabidangol/](https://www.linkedin.com/in/utsabidangol/))
 - 💻 [GitHub](https://github.com/utsabi)
 - ✉️ [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:utsabidangol123@gmail.com) 
 
